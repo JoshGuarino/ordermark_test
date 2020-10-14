@@ -1,6 +1,5 @@
 import requests
 import yaml
-import progressbar
 
 # Class object for making requests
 class Request(object):
